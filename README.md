@@ -1,10 +1,10 @@
-# [mumtaza fairuz azzahra]
+## About Me
 
 ![Profile Picture](url-to-your-profile-picture)
 
-## About Me
+# [mumtaza fairuz azzahra]
 
-Hello! I'm [Your Name],
+Hello! I'm [taza] and my hobby is reading book, cooking, and swimming
 - 🌍 I was born in [surakarta 4 september 2007]
 - 🏢 Currently attending [SMA Sains Al Quran Wahid Hasyim]
 - 📚 Alumni of [SMP Pesantren Tahfidz Azzayadiy]
